@@ -7,5 +7,3 @@ Please see the [Privacy Policy](privacy.html) and [Terms & Conditions](terms.htm
 Please contact us on info@leetgroup.net if you have any questions.
 
 Thanks!
-
-/beetree
